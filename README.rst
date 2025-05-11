@@ -21,4 +21,4 @@ Get in touch
 
 
 .. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.15382337.svg
-  :target: https://doi.org/10.5281/zenodo.15382337
+   :target: https://doi.org/10.5281/zenodo.15382337
