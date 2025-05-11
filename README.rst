@@ -6,7 +6,7 @@ GeoDMD: Jupyter repository for DMD analysis of geostrophy
 A repository for Dynamic-Mode Decomposition (DMD)-based analysis of geostrophy
 on xarray_ and dask_ arrays.
 
-Our analysis heavily relies on the PyDMD_ package.
+Our analyses heavily rely on the PyDMD_ package.
 
 .. _xarray: http://xarray.pydata.org/en/stable/
 .. _dask: https://dask.org
@@ -20,5 +20,5 @@ Get in touch
 .. _on GitHub: https://github.com/roxyboy/GeoDMD/issues
 
 
-.. |DOI| image:: https://zenodo.org/badge/
-   :target: https://zenodo.org/badge/latestdoi/
+.. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.15382337.svg
+   :target: https://doi.org/10.5281/zenodo.15382337
